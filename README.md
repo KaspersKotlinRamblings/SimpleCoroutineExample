@@ -4,7 +4,7 @@ This example is a stripped down version of the [buildSequence](https://github.co
 
 *This example focuses on co-routines which runs on one thread. It does not address the also important usecase of asynchroneous behaviour.*
 
-The full code is at github (where you are likely reading this file.)
+The full code [is at github](https://github.com/KaspersKotlinRamblings/SimpleCoroutineExample) (where you are likely reading this file.)
 
 The code is an standard intellij kotlin project , and compiles with the `1.3-M2-release-IJ2018.2-1` plugin.
 
