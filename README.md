@@ -36,7 +36,8 @@ fun main(args: Array<String>) {
         println("<$value>")
     }
     println("End of story")
-}```
+}
+```
 
 In main, the call to magicNumbers returns an instance of SimpleCoroutine, which is then stored in myCoroutine.
 
